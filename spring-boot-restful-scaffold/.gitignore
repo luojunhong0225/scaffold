@@ -1,4 +1,5 @@
 ##ignorethisfile##
+HELP.md
 /target/
 .classpath
 .project
@@ -7,6 +8,10 @@
 *.prefs
 *.component
 *.lst
+.mvn
+.springBeans
+mvnw
+*.cmd
 
 ##filterdatabfile、slnfile##
 *.mdb
